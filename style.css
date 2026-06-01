@@ -28,3 +28,16 @@ minmax= restringe o numero de colunas*/
 margin: auto; /* Margem*/
 
 }
+
+
+
+
+
+.imagem img {
+
+width: 50%;
+max-width: 100px ;
+height: auto;
+justify-self: center ;
+
+}
